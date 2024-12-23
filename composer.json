@@ -1,0 +1,19 @@
+{
+    "name": "anthony-brindley/class-generator",
+    "description": "A laravel package designed to provide a useful API/Service for creating fully populated class files",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AnthonyBrindley\\ClassGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony Brindley",
+            "email": "anthony@anthonybrindley.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
